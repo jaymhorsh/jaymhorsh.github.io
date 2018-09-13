@@ -1,1 +1,1 @@
-# jaymhorsh.gitshub.io
+# jaymhorsh.github.io
