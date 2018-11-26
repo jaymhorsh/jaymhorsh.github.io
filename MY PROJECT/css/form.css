@@ -1,0 +1,28 @@
+@font-face{
+	src:url('../fonts/Lora/Lora-Bold.ttf');
+	font-family: Lora-Bold;}
+@font-face{
+	src:url('../fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
+	font-family: PT_Serif-Bold;}
+
+
+
+body{
+	background-color:#87CEFA;
+	font-family: 'Lora', cursive;
+	margin:auto;
+}
+form{
+	text-align:center;
+	text-decoration:none;
+	border:5px solid white;
+	border-style:groove;
+	border-image:  40px;
+	border-width: 20px;
+}
+#emphasis{
+	text-align:center;}
+label{
+	display: block;
+}
+

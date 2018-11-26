@@ -1,0 +1,175 @@
+@font-face{
+	src:url('../fonts/Lora/Lora-Bold.ttf');
+	font-family: Lora-Bold;}
+@font-face{
+	src:url('../fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
+	font-family: PT_Serif-Bold;}
+
+
+
+body{
+	margin: auto;
+	width:960px;
+	min-width:400px;
+	background: #324052;
+}
+div{
+	
+	margin-top:0px;
+	height:130px;
+	width:960px;
+	
+}
+.head{
+	float:left;
+	height:128px;
+	width:680px;
+	background-image:  url("../Name Art/logo7.jpg");
+	
+	
+
+}
+.head img{
+	height:60px;
+	width: 200px;
+	padding-top: 5px;
+}
+span a{
+	padding-right:30px;
+	text-decoration: none;
+	font-family:sans-serif; 
+	color:red;
+	text-align: center;	
+	padding: 5px 10px;
+}
+span a:hover{
+	color: #87CEFA;
+	font-size:16px;
+	text-decoration: underline;
+
+}
+.logon{
+	float:right;
+	margin-top: 0px;
+	margin-top:-22px;
+	height:102px;
+	width:260px;
+	padding-bottom:50px;
+	background:#87CEFA;
+	border-radius: 10px;
+	padding-left: 10px;
+}
+form a{
+	padding-right: 9px;
+}
+form h3{
+	color:brown;}
+
+
+	
+.container{
+	height:380px;
+	display:flex;
+	background: #324052;
+	border-radius:20px;
+	margin-top: 10px;
+}
+article li{
+	list-style-type:square;
+}
+section{
+width:350px;
+float:left;
+padding-top:0px;
+font-family: 'Lora', cursive;
+color: 	#87CEFA;
+padding-right: 9px;
+font-size: 15px;
+}
+section h3{
+	color:yellow;
+	text-align:center;}
+aside{
+	width:320px;
+	float: left;
+	font-family: 'Lora', cursive;
+	color:#87CEFA;
+
+padding-right: 9px;
+}
+
+aside h3{
+	color:yellow;
+	text-align: center;}
+article{
+	width:320px;
+	float:left;
+	font-family: 'Lora', cursive;
+	color:#87CEFA;
+	font-size: 15px;
+}
+
+
+
+article h3{
+	color:yellow;
+	text-align: center;}
+footer{
+		overflow: hidden;
+		height: 500px;
+		width: 750px;
+		float:left;
+
+	}
+footer h3{
+	color:yellow;
+	clear:both;}
+footer img{
+	height:120px;
+	width:150px;
+	float:left;
+	padding-right:10px;
+	padding-top:20px;
+	font-size: 15px;
+}
+
+ text{
+	float:left;
+	border:0px;
+	width:300px;
+	padding-top:0px;
+	font-family: 'cursive', cursive;
+	color:red; }
+	
+
+}
+.button{
+background-color: #4CAF50;
+    border:0px;
+    color: white;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: underline;
+ display: inline-block;
+    border-width: 2px;
+}
+
+input[type=text] {
+	width:150px;
+ 	margin-bottom:5px;
+   
+   }
+   .Contact{
+   	padding-top: 45px;
+   	border:0px;
+   	color:blue;
+   	font-size:14px;
+   	width: 200px;
+   	height: 200px;
+   	float:right;
+   	overflow: hidden;
+   }
+   .Contact h3{
+   	color: red;
+   }
+   .contact a{color:black;}

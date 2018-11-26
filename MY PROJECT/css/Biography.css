@@ -1,0 +1,36 @@
+@font-face{
+	src:url('../fonts/PT_Serif/PT_Serif-Web-Bold.ttf');
+	font-family: PT_Sif-Bold;}
+@font-face{
+	src:url('../fonts/Lora/Lora-Bold.ttf');
+	font-family: Lora-Bold;}
+
+body{
+	margin:auto;
+	width: 550px;
+	height: 700px;
+	background:grey;
+	
+	background-image: url("../Name Art/name6.png");
+	
+}
+.title{
+	font-size: 30px;
+	color:blue;
+	text-align: center;
+	text-transform: uppercase; 
+
+}
+.text{
+	border-radius: 20px;
+	text-align: center;
+	margin-top: 0px;
+	border-top: 20px;
+	font-size: 20px;
+	font-family:'Lora-Bold';
+	background-image: url("../Name Art/name 4.png");
+	padding-top: 15px;
+	color: #87CEFA;
+	
+	 
+}
